@@ -27,6 +27,7 @@ The project evaluates:
 
 ## Training and Evaluation
 - Data split into training, validation, and testing sets.
+- **Our methodology uniquely take the length of tweets into consideration.**
 - Emphasis on transformer-based models for their effectiveness.
 - Evaluation metrics include accuracy, precision, recall, F1-score, and model robustness.
 
